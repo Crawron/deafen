@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "es2020",
+		"jsx": "preserve",
+		"strictFunctionTypes": true,
+		"strict": true,
+		"noUncheckedIndexedAccess": true,
+		"rootDir": "src",
+		"outDir": "build"
+	},
+	"exclude": ["node_modules", "**/node_modules/*"]
+}
